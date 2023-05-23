@@ -1,0 +1,1 @@
+console.log("manaos","cocacola","sprite")
